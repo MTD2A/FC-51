@@ -52,3 +52,10 @@ Holder for FC-51 Infrared sensor for vertical mounting: https://www.thingiverse.
 <img src="https://github.com/MTD2A/FC-51/blob/main/image/Train%20track%20decentered%20holder%20with%20FC-51%20mounted%20on%20track%202.png" height="300">
 
 Decentered holder for FC-51 Infrared sensor for vertical mounting: https://www.thingiverse.com/thing:6775046
+
+<br/>
+
+### Sensor reflection and ranges
+
+https://github.com/MTD2A/FC-51/blob/main/doc/FC-51%20infrar%C3%B8d%20bin%C3%A6r%20refleksionssensor%20og%20r%C3%A6kkevidder.pdf
+
