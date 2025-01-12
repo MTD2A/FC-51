@@ -1,4 +1,4 @@
-# FC-51 Infrared Binaryy Sensor 
+# FC-51 Infrared Binary Sensor 
 (Obstacle Avoidance Module /  proximitydetection ...)
 
 <img src="https://github.com/MTD2A/FC-51/blob/main/image/Infrared-Obstacle-Avoidance-Sensor-Module-FC-51.png" width="300" height="300">
