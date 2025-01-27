@@ -9,7 +9,7 @@
 
 ## Break Beam Concept
 
-<img src="https://github.com/MTD2A/FC-51/blob/main/image/Break%20Beam%20concept.png" height="400" width="807">
+<img src="https://github.com/MTD2A/FC-51/blob/main/image/Break%20Beam%20concept.png" height="400">
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ### Break Beam Singel Track
 
-<img src="https://github.com/MTD2A/FC-51/blob/main/image/FC-51%20single%20receiver%20and%20transmitter.jpg" height="300" width="556">
+<img src="https://github.com/MTD2A/FC-51/blob/main/image/FC-51%20single%20receiver%20and%20transmitter.jpg" height="300">
 
 [FC-51 Infrared break beam **transmitter** housing](https://www.thingiverse.com/thing:6818774)
 
@@ -29,7 +29,7 @@
 
 ### Break Beam Double Track
 
-<img src="https://github.com/MTD2A/FC-51/blob/main/image/FC-51%20double%20receiver%20and%20transmitter.jpg" height="300" width="651">
+<img src="https://github.com/MTD2A/FC-51/blob/main/image/FC-51%20double%20receiver%20and%20transmitter.jpg" height="300">
 
 [FC-51 Infrared break beam **transmitter** housing](https://www.thingiverse.com/thing:6818774)
 
@@ -41,7 +41,7 @@
 
 ### Centered Beam Reflection
 
-<img src="https://github.com/MTD2A/FC-51/blob/main/image/Train%20track%20holder%20with%20FC-51%20mounted%20on%20track%202.png" height="300" width="370">
+<img src="https://github.com/MTD2A/FC-51/blob/main/image/Train%20track%20holder%20with%20FC-51%20mounted%20on%20track%202.png" height="300">
 
 [Holder for FC-51 Infrared sensor for vertical mounting](https://www.thingiverse.com/thing:6805617)
 
@@ -49,13 +49,19 @@
 
 ### DEcentered Beam Reflection
 
-<img src="https://github.com/MTD2A/FC-51/blob/main/image/Train%20track%20decentered%20holder%20with%20FC-51%20mounted%20on%20track%202.png" height="300" width="372">
+<img src="https://github.com/MTD2A/FC-51/blob/main/image/Train%20track%20decentered%20holder%20with%20FC-51%20mounted%20on%20track%202.png" height="300">
 
 [Decentered holder for FC-51 Infrared sensor for vertical mounting](https://www.thingiverse.com/thing:6775046)
 
 <br/>
 
+### Arduino infrared sensor configuration
+
+<img src="https://github.com/MTD2A/FC-51/blob/main/image/Arduino-Sensor-Configuration.png" height="600">
+
+<br/>
+
 ## Sensor reflection and ranges
 
-[FC-51 infrarød binær refleksionssensor og rækkevidder.pdf](https://github.com/MTD2A/FC-51/blob/main/doc/FC-51%20infrar%C3%B8d%20bin%C3%A6r%20refleksionssensor%20og%20r%C3%A6kkevidder.pdf)
+[FC-51 Binær refleksionssensor og rækkevidder](https://github.com/MTD2A/FC-51/blob/main/doc/FC-51%20infrar%C3%B8d%20bin%C3%A6r%20refleksionssensor%20og%20r%C3%A6kkevidder.pdf)
 
