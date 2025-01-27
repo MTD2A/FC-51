@@ -35,7 +35,7 @@
 
 [FC-51 Infrared break beam **double receiver** housing](https://www.thingiverse.com/thing:6806054)
 
-[FC-51 Infrared break beam **transmitter simple** housing](https://www.thingiverse.com/thing:6818783)
+[FC-51 Infrared break beam **simple transmitter** housing](https://www.thingiverse.com/thing:6818783)
 
 <br/>
 
