@@ -29,7 +29,7 @@
 
 ### Break Beam Double Track
 
-<img src="https://github.com/MTD2A/FC-51/blob/main/image/FC-51%20double%20receiver%20and%20transmitter.jpg" height="300">
+<img src="https://github.com/MTD2A/FC-51/blob/main/image/FC-51%20double%20receiver%20and%20transmitter.jpg">
 
 [FC-51 Infrared break beam **transmitter** housing](https://www.thingiverse.com/thing:6818774)
 
