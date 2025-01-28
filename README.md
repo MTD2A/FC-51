@@ -57,7 +57,7 @@
 
 ### Arduino infrared sensor configuration
 
-<img src="https://github.com/MTD2A/FC-51/blob/main/image/Arduino-Sensor-Configuration.png" height="600">
+<img src="https://github.com/MTD2A/FC-51/blob/main/image/Arduino-Sensor-Configuration.png">
 
 <br/>
 
