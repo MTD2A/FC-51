@@ -13,6 +13,12 @@
 
 <br/>
 
+## Youtube demo video with installation and assembly
+
+[Train emergency stop using FC 51 infrared break beam sensor](https://youtu.be/gq-1eKoV4c0)
+
+<br/>
+
 ## 3D-print
 
 <br/>
