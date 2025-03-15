@@ -51,6 +51,8 @@
 
 [Holder for FC-51 Infrared sensor for vertical mounting](https://www.thingiverse.com/thing:6805617)
 
+[FC-51 Infrared break beam bottom protection](https://www.thingiverse.com/thing:6974058)
+
 <br/>
 
 ### DEcentered Beam Reflection
@@ -59,6 +61,7 @@
 
 [Decentered holder for FC-51 Infrared sensor for vertical mounting](https://www.thingiverse.com/thing:6775046)
 
+[FC-51 Infrared break beam bottom protection](https://www.thingiverse.com/thing:6974058)
 <br/>
 
 ### Arduino infrared sensor configuration
