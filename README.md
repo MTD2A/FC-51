@@ -3,8 +3,6 @@
 
 <img src="https://github.com/MTD2A/FC-51/blob/main/image/Infrared-Obstacle-Avoidance-Sensor-Module-FC-51.png" width="300" height="300">
 
-[Examples: Cirkit Designer](https://docs.cirkitdesigner.com/component/17602446-c38c-d62e-3c59-d687e345d3aa)
-
 <br/>
 
 ## Break Beam Concept
