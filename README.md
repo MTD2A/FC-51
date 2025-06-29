@@ -72,6 +72,7 @@
 
 [FC-51 Binær refleksionssensor og rækkevidder](https://github.com/MTD2A/FC-51/blob/main/doc/FC-51%20infrar%C3%B8d%20bin%C3%A6r%20refleksionssensor%20og%20r%C3%A6kkevidder.pdf)
 
+[FC-51 infrared binary reflection sensor and ranges - english](https://github.com/MTD2A/FC-51/blob/main/doc/FC-51%20infrared%20binary%20reflection%20sensor%20and%20ranges%20-%20english.pdf)
 <br/>
 
 ## Fuld dokumentation
